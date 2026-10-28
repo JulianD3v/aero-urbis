@@ -424,7 +424,7 @@ function renderLogin() {
             <div class="demo-card">
                 <p>Accesos de demostración · contraseña AeroUrbis2026</p>
                 <div class="demo-actions">
-                    <button class="btn btn-soft btn-sm" type="button" data-action="fill-demo" data-email="juan.talero@medellin.gov.co">Entrar como DAGRD</button>
+                    <button class="btn btn-soft btn-sm" type="button" data-action="fill-demo" data-email="juan.talero@medellin.gov.co">Entrar como entidades del estado</button>
                     <button class="btn btn-soft btn-sm" type="button" data-action="fill-demo" data-email="laura.gomez@bancolombia.com.co">Entrar como banco</button>
                 </div>
             </div>
